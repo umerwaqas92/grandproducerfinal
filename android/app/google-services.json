@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962422127418",
+    "project_id": "grandproducer-12ca4",
+    "storage_bucket": "grandproducer-12ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962422127418:android:7048abc1bd23d57c006e03",
+        "android_client_info": {
+          "package_name": "com.grandproducer.markets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962422127418-3ilh3lq5p7tqto2t7t10j07gbt4de6so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRUY01nbIsmajmQzOt7rZhtVI7W7lNO6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962422127418-3ilh3lq5p7tqto2t7t10j07gbt4de6so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

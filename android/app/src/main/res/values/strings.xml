@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grand Producer</string>
+    <string name="default_notification_channel_id">112233</string>
+    <string name="facebook_app_id">836009020663094</string>
+    <string name="fb_login_protocol_scheme">fb836009020663094</string>
+    <string name="map_key">AIzaSyAhJ1mhHQc-brlyL736NU-MyHDKSjsk18I</string>
+    <string name="splash_back">#FFFFF1</string>
+</resources>
